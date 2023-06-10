@@ -103,5 +103,8 @@
   },
   "altbtwctrl14": {
     "ProjectSlayers": "true"
+  },
+  "Ctrlbtw": {
+    "ProjectSlayers": "true"
   }
 }
